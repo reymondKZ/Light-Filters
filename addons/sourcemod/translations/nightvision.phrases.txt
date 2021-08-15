@@ -2,27 +2,27 @@
 {
 	"nightvision_enabled"
 	{
-		"en"	"[NightVision] Night vision was enabled. (Take a look at !nightvisionsettings (or !nvs in short) to configure it)"
+		"en"	"Filter was enabled."
 	}
 	
 	"nightvision_disabled"
 	{
-		"en"	"[NightVision] Night vision was disabled."
+		"en"	"Filter was disabled."
 	}
 	
 	"nightvision_spam_attempt"
 	{
-		"en"	"[NightVision] Please wait before using same command again."
+		"en"	"Please wait before using same command again."
 	}
 	
 	"nvs_menu_title"
 	{
-		"en"	"NightVision Settings:"
+		"en"	"Filter Settings:"
 	}
 	
 	"nvs_menu_ccselect"
 	{
-		"en"	"Select night vision template"
+		"en"	"Select filter template"
 	}
 	
 	"nvs_menu_intensity"
@@ -45,7 +45,7 @@
 	
 	"cct_menu_title"
 	{
-		"en"	"NightVision Templates"
+		"en"	"Filter Templates"
 	}
 	
 	"cct_menu_curr_template"
