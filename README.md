@@ -1,8 +1,8 @@
 # Light-Filters
-Allows for the user to brighten or darken the map. All the commands are currently the same as the original project (!nv, !nvs, ect.)
+Allows for the user to brighten or darken the map. All the commands are currently the same as the original project (!nv, !nvs, ect.) 
 
 # Darkmode
-Decreases overblown highlights and flares without reducing brightness by a large amount
+Decreases overblown highlights and flares without reducing brightness by a large amount. I created the filter because I get migraines from light sensitivity and thought that it could help others too.
 
 Exaggerated Example:
 ![before](https://i.vgy.me/cLbXRr.png)
